@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓Currently studying at 42 School, I'm building strong skills in low-level programming.<br>💻 Passionate about computer science, I enjoy crafting clean and robust projects, exploring the power of C.</p>
+<p align="left">🎓C/C++ developer at 42 school.</p>
 
 ###
 
