@@ -29,6 +29,7 @@
   <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" height="40" alt="Alpine Linux logo" />
   <img width="12" />
   <img src="https://www.kindpng.com/picc/m/172-1724310_mac-os-logo-png-transparent-png.png" height="40" alt="macOS logo" />
+  <img width="12" />
 </div>
 
 <h3 align="left">IDEs & Dev tools:</h3>
@@ -39,6 +40,7 @@
   <img src="https://polybot-grenoble.fr/wiki/images/b/bb/Logo_STM32Cube.jpg" height="40" alt="STM32CubeIDE logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="40" alt="Arduino IDE logo" />
+  <img width="12" />
 </div>
 
 <h3 align="left">Other tools & Technologies:</h3>
@@ -51,6 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="40" alt="Nginx logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB logo" />
+  <img width="12" />
 </div>
 
 <h3 align="left">Contact:</h3>
