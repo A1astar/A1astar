@@ -59,4 +59,8 @@
   <a href="mailto:alexandre.lacroix01@outlook.fr">
     <img src="https://img.shields.io/badge/Email-alexandre.lacroix01%40outlook.fr-blue?logo=microsoftoutlook&logoColor=white" alt="Email badge" />
   </a>
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/alexandre-lacroix-444775334">
+    <img src="https://img.shields.io/badge/LinkedIn-Alexandre%20Lacroix-blue?logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
 </p>
