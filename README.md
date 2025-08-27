@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">I code with</h3>
+<h3 align="left">Languages: </h3>
 
 ###
 
@@ -25,9 +25,36 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo" />
+</div>
+
+###
+
+<h3 align="left">Operating systems: </h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" height="40" alt="ubuntu" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" height="40" alt="debian" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-ar21.svg" height="40" alt="alpine" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="40" alt="macos" />
+  <img width="12" />
+</div>
+          
+###
+
+<h3 align="left">IDE: </h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode" />      
+  <img width="12" />
+  <img src="https://polybot-grenoble.fr/wiki/images/b/bb/Logo_STM32Cube.jpg" height=40 alt="stm32ide" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino" />
+  <img width="12" />          
 </div>
