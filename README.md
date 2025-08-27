@@ -34,11 +34,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" height="40" alt="ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" alt="ubuntu" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" height="40" alt="debian" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="40" alt="debian" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-ar21.svg" height="40" alt="alpine" />
+  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" height="40" alt="alpine" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="40" alt="macos" />
   <img width="12" />
