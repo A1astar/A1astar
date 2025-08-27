@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" height="40" alt="Alpine Linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="40" alt="macOS logo" />
+  <img src="https://fr.wikipedia.org/wiki/Finder#/media/Fichier:Finder_Icon_macOS_Big_Sur.png" height="40" alt="macOS logo" />
 </div>
 
 ###
