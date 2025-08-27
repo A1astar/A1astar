@@ -63,4 +63,8 @@
   <a href="https://www.linkedin.com/in/alexandre-lacroix-444775334">
     <img src="https://img.shields.io/badge/LinkedIn-Alexandre%20Lacroix-blue?logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
+  <img width="12" />
+  <a href="https://profile.intra.42.fr/users/<ton_login>">
+    <img src="https://img.shields.io/badge/42%20Intra-Alexandre%20Lacroix-black?logo=42&logoColor=white" alt="42 intra profile" />
+  </a>
 </p>
