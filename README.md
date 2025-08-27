@@ -52,3 +52,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB logo" />
 </div>
+
+<h3 align="left">Contact:</h3>
+
+<p align="left">
+  <a href="mailto:alexandre.lacroix01@outlook.fr">
+    <img src="https://img.shields.io/badge/Email-alexandre.lacroix01%40outlook.fr-blue?logo=microsoftoutlook&logoColor=white" alt="Email badge" />
+  </a>
+</p>
