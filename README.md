@@ -28,7 +28,7 @@
   <img src="https://www.kindpng.com/picc/m/172-1724310_mac-os-logo-png-transparent-png.png" height="40" alt="macOS logo" />
 </div>
 
-<h3 align="left">IDEs & Tools:</h3>
+<h3 align="left">IDEs & Dev tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="40" alt="Visual Studio Code logo" />      
@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="40" alt="Arduino IDE logo" />
 </div>
 
-<h3 align="left">Tools & Technologies:</h3>
+<h3 align="left">Other tools & Technologies:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
