@@ -1,4 +1,4 @@
-<h1 align="left">Welcome, I'm Alexandre!</h1>
+<h1 align="left">Welcome to my profile, I'm Alexandre!</h1>
 
 <p align="left">I'm currently a student at 42 School in Paris. I'm learning C/C++ and STM32 microcontrollers.</p>
 
