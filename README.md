@@ -1,8 +1,8 @@
-<h1 align="left">👋 Hi, I'm Alexandre</h1>
+<h1 align="left">Welcome, I'm Alexandre !</h1>
 
 ###
 
-<p align="left">🎓C/C++ developer at 42 school.</p>
+<p align="left">I'm currently a student at 42 school in Paris. I'm learning C/C++ and STM32 micro-contollers</p>
 
 ###
 
