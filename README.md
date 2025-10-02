@@ -17,6 +17,8 @@
   <img width="12" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="Bash logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JS logo" />
+  <img width="12" />        
 </div>
 
 <h3 align="left">Operating Systems:</h3>
