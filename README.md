@@ -17,12 +17,6 @@
   <img width="12" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="Bash logo"/>        
   <img width="12" />     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TS logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="NodeJs logo"/>
-  <img width="12" />        
 </div>
 
 <h3 align="left">Operating Systems:</h3>
@@ -44,8 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="40" alt="Visual Studio Code logo" />      
   <img width="12" />
   <img src="https://polybot-grenoble.fr/wiki/images/b/bb/Logo_STM32Cube.jpg" height="40" alt="STM32CubeIDE logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="40" alt="Arduino IDE logo" />
   <img width="12" />
 </div>
 
