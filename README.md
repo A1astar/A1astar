@@ -1,6 +1,6 @@
 <h1 align="left">Welcome to my profile, I'm Alexandre!</h1>
 
-<p align="left">I'm currently a student at 42 School in Paris. I'm learning C/C++, ATmega328P and STM32 microcontrollers.</p>
+<p align="left">I'm currently a student at 42 School in Paris. I'm learning C/C++, Rust, ATmega328P and STM32 microcontrollers.</p>
 
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm43bXhzandzbTBpZmJ5ZWdxdW1wbHpmaWRuajNpbnhkbXpyczNzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HvxL6WWKpjRyD3z3QH/giphy.gif" alt="animated coding gif" />
@@ -14,7 +14,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" height="40" alt="Embedded C logo" />
   <img width="12" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ programming language logo" />
-  <img width="12" />        
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" alt="Rust programming language logo"/>
+  <img width="12" />                 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="Bash logo"/>        
   <img width="12" />     
 </div>
