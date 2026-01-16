@@ -39,8 +39,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="40" alt="Visual Studio Code logo" />      
   <img width="12" />
-  <img src="https://polybot-grenoble.fr/wiki/images/b/bb/Logo_STM32Cube.jpg" height="40" alt="STM32CubeIDE logo" />
-  <img width="12" />
 </div>
 
 <h3 align="left">Other tools & Technologies:</h3>
@@ -55,19 +53,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB logo" />
   <img width="12" />
 </div>
-
-<h3 align="left">Contact:</h3>
-
-<p align="left">
-  <a href="mailto:alexandre.lacroix01@outlook.fr">
-    <img src="https://img.shields.io/badge/Email-alexandre.lacroix01%40outlook.fr-blue?logo=microsoftoutlook&logoColor=white" alt="Email badge" />
-  </a>
-  <img width="12" />
-  <a href="https://www.linkedin.com/in/alexandre-lacroix-444775334">
-    <img src="https://img.shields.io/badge/LinkedIn-Alexandre%20Lacroix-blue?logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-  <img width="12" />
-  <a href="https://profile.intra.42.fr/users/alacroix">
-    <img src="https://img.shields.io/badge/42%20Intra-Alexandre%20Lacroix-black?logo=42&logoColor=white" alt="42 intra profile" />
-  </a>
-</p>
