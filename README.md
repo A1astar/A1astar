@@ -1,55 +1,46 @@
-<h1 align="left">Welcome to my profile, I'm Alexandre!</h1>
+# Hi, I'm Alexandre Lacroix
 
-<p align="left">I'm currently a student at 42 School in Paris. I'm learning C/C++, Rust, Arduino, ESP32 and STM32 microcontrollers.</p>
+### Embedded Software & C/C++ Developer | 42 Paris
 
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm43bXhzandzbTBpZmJ5ZWdxdW1wbHpmaWRuajNpbnhkbXpyczNzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HvxL6WWKpjRyD3z3QH/giphy.gif" alt="animated coding gif" />
-</div>
+I'm a software engineering student at **42 Paris**, currently specializing in **embedded systems and low-level programming**.
 
-<h3 align="left">Languages:</h3>
+My main interests are **C/C++ development, microcontrollers, real-time systems and hardware/software integration**.
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C programming language logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" height="40" alt="Embedded C logo" />
-  <img width="12" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ programming language logo" />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" alt="Rust programming language logo"/>
-  <img width="12" />                 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="Bash logo"/>        
-  <img width="12" />     
-</div>
+---
 
-<h3 align="left">Operating Systems:</h3>
+## About me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" alt="Ubuntu logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="40" alt="Debian logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" height="40" alt="Alpine Linux logo" />
-  <img width="12" />
-  <img src="https://www.kindpng.com/picc/m/172-1724310_mac-os-logo-png-transparent-png.png" height="40" alt="macOS logo" />
-  <img width="12" />
-</div>
+* Student at **42 Paris**
+* Focused on **Embedded Software Engineering**
+* Strong interest in **low-level programming and microcontrollers**
+* Experience with **C, C++, Qt and embedded communication protocols**
+* Working with **bare-metal systems and FreeRTOS**
+* Interested in **RTOS, firmware, device drivers and hardware/software integration**
 
-<h3 align="left">IDEs & Dev tools:</h3>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="40" alt="Visual Studio Code logo" />      
-  <img width="12" />
-</div>
+## Technical Skills
 
-<h3 align="left">Other tools & Technologies:</h3>
+### Languages
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="40" alt="Nginx logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB logo" />
-  <img width="12" />
-</div>
+`C` `C++` `Assembly x86-64` `Bash`
+
+### Embedded & Low-Level
+
+`ESP32` `STM32` `ATmega328P` `FreeRTOS` `ESP-IDF` `Bare Metal`
+
+### Communication
+
+`UART` `SPI` `I²C` `RS-232` `MIL-STD-1553`
+
+### Software & Development Tools
+
+`Qt` `Git` `Linux` `GDB` `Valgrind` `Make` `CMake` `Docker`
+
+---
+
+## Contact
+
+**LinkedIn:** [https://www.linkedin.com/in/alacroixdev/]
+**Email:** [alacroix.dev@proton.me]
+**Location:** Paris / Île-de-France, France
