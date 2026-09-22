@@ -41,6 +41,6 @@ My main interests are **C/C++ development, microcontrollers, real-time systems a
 
 ## Contact
 
-**LinkedIn:** [https://www.linkedin.com/in/alacroixdev/]
-**Email:** [alacroix.dev@proton.me]
+**LinkedIn:** [https://www.linkedin.com/in/alacroixdev/]<br>
+**Email:** [alacroix.dev@proton.me]<br>
 **Location:** Paris / Île-de-France, France
